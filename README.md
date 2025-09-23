@@ -55,7 +55,7 @@
 
 *   **Языки программирования:** Python (продвинутый), C/C++ (средний), Java, SQL, Wolfram Language.
 *   **Прикладное ПО:**
-    *   *Солверы:* CPLEX (MIP/CP), HIGHS, CBC, COPT
+    *   *Солверы:* CPLEX (MIP/CP), HIGHS, CBC, COPT, Open-WBO
     *   *Python-стек:* PuLP, Scikit-learn, PyTorch, Statsmodels, NumPy, Pandas, SciPy, Polars
     *   *Инфраструктура:* PostgreSQL, Git, Docker, CMake, Bash, Microsoft Office
 *   **Теоретическая база:** Комбинаторная оптимизация, Operations Research, алгоритмы и структуры данных, классический ML, нейронные сети, принципы работы с данными (ETL).
